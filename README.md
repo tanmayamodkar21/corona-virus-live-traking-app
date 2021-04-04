@@ -18,7 +18,7 @@ The UI is inspired by [Dribbble](https://dribbble.com/shots/10847147-Coronavirus
 <br></br>
 <div align="center">
 <img src="Readme_files/home_screen.png" width="260" height="538"/>&nbsp;<img src="Readme_files/global_screen.png" width="260" height="538"/>&nbsp;&nbsp;<img src="Readme_files/country_list.png" width="260" height="538"/><br></br>
-<img src="Readme_files/news_screen.png" width="260" height="538"/><img src="Readme_files/country_screen.png" width="260" height="538"/>&nbsp;<img src="Readme_files/credits_screen.png" width="260" height="538"/><br></br>
+<img src="Readme_files/news_screen.png" width="260" height="538"/><img src="Readme_files/country_screen.png" width="260" height="538"/><br></br> 
 <img src="Readme_files/precautions_screen.png" width="260" height="538"/>&nbsp;&nbsp;&nbsp;<img src="Readme_files/myths_screen.png" width="260" height="538"/>
 </div>
 
