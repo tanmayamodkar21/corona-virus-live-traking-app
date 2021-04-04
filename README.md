@@ -1,4 +1,6 @@
 # corona-virus-live-traking-app
+                            # SPECIAL THANKS TO MIC #
+
 This application Tracks Corona Gobal Confirmed Casses of Corona Virus Live,
 
 Covid Tracker is an app made with **Flutter** framework to provide worldwide information related to Covid-19 pandemic. 
