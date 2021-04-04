@@ -34,3 +34,7 @@ The UI is inspired by [Dribbble](https://dribbble.com/shots/10847147-Coronavirus
 
   - [Flutter v1.17.4](https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.17.4-stable.zip)
   - [Dart v2.8.4](https://dart.dev/get-dart)
+
+## 💬 Feedback
+
+Feel free to send us feedback on [gmial](tanuamodkar@gmail.com) or [file an issue](https://github.com/tanmayamodkar21/corona-virus-live-traking-app/issues/new/). Feature requests are always welcome.
