@@ -11,8 +11,11 @@ Features
   - News updates related to vaccine developement
   - Info, symptoms, precautions and myths of the virus
   - Setting a default country
+  
+  Download application from [here](https://github.com/tanmayamodkar21/corona-virus-live-traking-app/raw/master/build/app/outputs/apk/release/app-release.apk) *if warns you just click on install anyway its wras due to of google play policies*
 
 The UI is inspired by [Dribbble](https://dribbble.com/shots/10847147-Coronavirus-Covid-19-Dashboard)
+
 
 <div align="center"><kbd><img alt="App Tour" src="Readme_files/app_tour.gif" width="260" height="538" style="border-style: solid; border-color: #FFFFFF; border-width:1px;"/></kbd></div>
 <br></br>
