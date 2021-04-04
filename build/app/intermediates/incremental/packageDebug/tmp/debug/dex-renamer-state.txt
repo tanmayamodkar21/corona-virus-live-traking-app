@@ -1,0 +1,4 @@
+#Sun Apr 04 12:23:01 IST 2021
+base.0=/home/thor/Documents/covid_tracker/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
