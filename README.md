@@ -37,4 +37,4 @@ The UI is inspired by [Dribbble](https://dribbble.com/shots/10847147-Coronavirus
 
 ## 💬 Feedback
 
-Feel free to send us feedback on [gmial](tanuamodkar@gmail.com) or [file an issue](https://github.com/tanmayamodkar21/corona-virus-live-traking-app/issues/new/). Feature requests are always welcome.
+Feel free to send us feedback on [gmail](tanuamodkar@gmail.com) or [file an issue](https://github.com/tanmayamodkar21/corona-virus-live-traking-app/issues/new/git). Feature requests are always welcome.
