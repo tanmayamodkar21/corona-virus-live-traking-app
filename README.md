@@ -1,4 +1,4 @@
-# corona-virus-live-traking-app
+# coronavirus-live-traking-app
                             # SPECIAL THANKS TO MIC #
 
 This application Tracks Corona Gobal Confirmed Casses of Corona Virus Live,
