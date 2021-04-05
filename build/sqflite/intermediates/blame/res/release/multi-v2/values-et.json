@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/thor/Documents/covid_tracker/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/home/thor/Documents/coronavirus-live-traking-app/build/sqflite/intermediates/res/merged/release/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/thor/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-et/values-et.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/home/thor/Documents/covid_tracker/build/sqflite/intermediates/res/merged/release/values-et/values-et.xml",
+            "outputFile": "/home/thor/Documents/coronavirus-live-traking-app/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/thor/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-et/values-et.xml",
